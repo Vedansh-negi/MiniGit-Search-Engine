@@ -4,6 +4,7 @@
 
 #include "cli.h"
 #include "minigit.h"
+#include "trie_index.h"
 #include "search_engine.h"
 #include "autocomplete.h"
 #include "ranking.h"
