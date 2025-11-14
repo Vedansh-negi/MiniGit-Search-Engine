@@ -16,6 +16,7 @@
 
 // Include your project's backend headers
 #include "minigit.h"
+#include "trie_index.h"
 #include "search_engine.h"
 #include "autocomplete.h"
 #include "ranking.h"
