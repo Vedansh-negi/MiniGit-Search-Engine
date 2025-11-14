@@ -12,6 +12,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "autocomplete.h"
+#include "trie_index.h"
 #include "ranking.h"
 #include "search_engine.h"
 
